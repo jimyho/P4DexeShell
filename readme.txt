@@ -1,1 +1,3 @@
-git root for jimyho@sina.com
+gt root for jimyho@sina.com
+
+change readme.txt content
